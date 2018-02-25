@@ -1,4 +1,4 @@
-require './my-math'
+require './my_math'
 
 if __FILE__ == $0
   puts 'hello github'
