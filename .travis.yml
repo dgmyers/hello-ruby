@@ -1,0 +1,7 @@
+lang: ruby
+
+script:
+  - gem install rspec
+  - rspec my_math_spec.rb
+
+rvm: 2.4
